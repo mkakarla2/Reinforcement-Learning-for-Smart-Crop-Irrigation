@@ -156,8 +156,8 @@ This project was developed as part of an advanced AI coursework assignment at th
 
 ## 👨‍💻 Contributors
 
-- **Aravind Aripaka** – Reinforcement Learning implementation, evaluation, and reporting  
-- **Team** – Simulation modeling, training integration, and analysis
+- **Mohan Kumar Kakarla** – Reinforcement Learning implementation, training integration, and reporting  
+- **Udit Brahmadevara** – Simulation modeling, evaluation, and analysis
 
 ---
 
