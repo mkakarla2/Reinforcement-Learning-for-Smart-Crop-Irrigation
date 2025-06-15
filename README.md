@@ -1,12 +1,12 @@
 # 🌾 Reinforcement Learning-Based Smart Crop Irrigation System
 
-This repository presents an academic project focused on designing and evaluating a smart irrigation system using reinforcement learning. The goal is to develop agents capable of learning optimal water distribution strategies across a growing season while adapting to soil moisture, crop needs, and environmental dynamics. 
+This repository presents an academic project focused on designing and evaluating a smart crop irrigation system using reinforcement learning. The goal is to develop a crop groth environment and deploy RL agents capable of learning optimal water distribution strategies across a growing season while adapting to soil moisture, crop needs, and environmental dynamics. 
 
 ---
 
 ## 🎯 Objective
 
-The central objective of this project is to reduce water wastage and maximize crop health using intelligent irrigation scheduling. Overirrigation can degrade soil and lower yields, while underwatering causes plant stress. Our RL agents are trained to balance moisture levels to maintain crop health and achieve optimal growth without excess water use.
+The central objective of this project is to reduce water wastage and maximize crop health using intelligent irrigation scheduling using reinforcement learning. Overirrigation can degrade soil and lower yields, while underwatering causes plant stress. Our RL agents are trained to balance moisture levels to maintain crop health and achieve optimal growth without excess water use.
 
 ---
 
