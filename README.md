@@ -75,10 +75,10 @@ Crops are marked "stressed" if optimal conditions are not maintained for >70% of
 - ![PPO](media/ppo_sb3_1000000_rewards.png)
 
 ### DQN Agent
-- ![Training](media/training_rewards.png)
-- ![Epsilon Decay](media/epsilon_decay.png)
-- ![Eval Avg](media/eval_average_reward.png)
-- ![Eval Bars](media/eval_rewards_per_episode.png)
+- ![Training](media/dqn_training_rewards.png)
+- ![Epsilon Decay](media/dqn_epsilon_decay.png)
+- ![Eval Avg](media/dqn_eval_average_reward.png)
+- ![Eval Bars](media/dqn_eval_rewards_per_episode.png)
 
 ### A2C Agent
 - ![Training](media/a2c_logs_1000000_rewards.png)
