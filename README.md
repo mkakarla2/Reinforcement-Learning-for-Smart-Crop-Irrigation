@@ -115,7 +115,6 @@ RL-Crop-Irrigation/
 ├── notebook/          # Training pipeline and evaluation code
 ├── docs/              # Final academic report (PDF)
 ├── requirements.txt   # Environment dependencies
-├── .gitignore
 └── README.md
 ```
 
@@ -124,7 +123,7 @@ RL-Crop-Irrigation/
 ## 📦 Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/RL-Crop-Irrigation.git
+git clone https://github.com/mkakarla2/RL-Crop-Irrigation.git
 cd RL-Crop-Irrigation
 
 # (Optional) Create virtual environment
@@ -159,8 +158,3 @@ This project was developed as part of an advanced AI coursework assignment at th
 - **Mohan Kumar Kakarla** – Reinforcement Learning implementation, training integration, and reporting  
 - **Udit Brahmadevara** – Simulation modeling, evaluation, and analysis
 
----
-
-## 📄 License
-
-This project is released for academic and research use only.
