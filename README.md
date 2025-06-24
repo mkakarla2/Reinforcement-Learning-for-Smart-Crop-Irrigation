@@ -157,4 +157,5 @@ This project was developed as part of an advanced AI coursework assignment at th
 
 - **Mohan Kumar Kakarla** – Reinforcement Learning implementation, training integration, and reporting  
 - **Udit Brahmadevara** – Simulation modeling, evaluation, and analysis
+- **Pavan Srinivas Doma** – custom algorithms development and reporting
 
