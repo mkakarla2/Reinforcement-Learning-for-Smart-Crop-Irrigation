@@ -2,7 +2,7 @@
 
 This repository presents an academic project focused on designing and evaluating a smart crop irrigation system using reinforcement learning. The goal is to develop a crop groth environment and deploy RL agents capable of learning optimal water distribution strategies across a growing season while adapting to soil moisture, crop needs, and environmental dynamics. 
 
-Crop_with_perfect_growth.gif
+(Crop_with_perfect_growth.gif)
 
 ---
 
